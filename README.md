@@ -1,958 +1,431 @@
-EXTINF:-1 ,鳳凰資訊
-http://live.italkdd.com/cds160/hls/channel002/channel002.m3u8
-
-#EXTINF:-1 ,鳳凰美洲
-http://live.italkdd.com/cds160/hls/channel001/channel001.m3u8
-
-#EXTINF:-1 ,鳳凰香港
-http://live.italkdd.com/cds160/hls/channel016/channel016.m3u8
-
-#EXTINF:-1 ,壹电视新闻
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
-
-#EXTINF:-1 ,民视新闻HD
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-
-#EXTINF:-1 ,TVBS-N
-http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
-
-#EXTINF:-1 ,中天新闻HD
-http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
-
-#EXTINF:-1 ,三立臺灣臺
-http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8
-
-#EXTINF:-1 ,TVBS新聞
-http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
-
-#EXTINF:-1 ,非凡新聞
-http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
-
-#EXTINF:-1 ,東森美洲新聞
-http://live.italkdd.com/cds160/hls/channel019/channel019_2000.m3u8
-
-#EXTINF:-1 ,中天新聞
-http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
-
-#EXTINF:-1 ,中旺電視
-http://live.italkdd.com/cds160/hls/channel008/channel008.m3u8
-
-#EXTINF:-1 ,環球電視
-http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
-
-#EXTINF:-1 ,亞洲旅遊臺
-http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
-
-#EXTINF:-1 ,三立臺灣
-http://live.italkdd.com/cds160/hls/channel021/channel021.m3u8
-
-#EXTINF:-1 ,東森新聞
-http://live.italkdd.com/cds160/hls/channel019/channel019.m3u8
-
-#EXTINF:-1 ,壹新聞備
-http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
-
-#EXTINF:-1 ,壹新聞
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
-
-#EXTINF:-1 ,東森美洲臺
-http://live.italkdd.com/cds160/hls/channel020/channel020_2000.m3u8
-
-#EXTINF:-1 ,壹新聞
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
-
-#EXTINF:-1 ,天空新聞
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-
-#EXTINF:-1 ,BasTV4K影院
-http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
-
-#EXTINF:-1 ,華視咨訊
-http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
-
-#EXTINF:-1 ,華視新聞
-http://live.italkdd.com/cds160/hls/channel005/channel005.m3u8
-
-#EXTINF:-1 ,臺視新聞
-http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
-
-#EXTINF:-1 ,新加坡亞洲新聞臺
-http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
-
-#EXTINF:-1 ,新加坡8頻道
-http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8
-
-#EXTINF:-1 ,新加坡5頻道
-http://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8
-
-#EXTINF:-1 ,越南ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-
-#EXTINF:-1 ,加州音悅臺
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/chunklist.m3u8
-
-#EXTINF:-1 ,WFCHD
-http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 ,韓國音樂臺
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b928000_sleng.m3u8
-
-#EXTINF:-1 ,優視頻道
-http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-
-#EXTINF:-1 ,澳門立法會
-http://103.233.191.136/tv/_definst_/ch21.live/playlist.m3u8
-
-#EXTINF:-1 ,衛星電視
-http://103.233.191.136/ch3/_definst_/ch3.live/playlist.m3u8
-
-#EXTINF:-1 ,澳視葡文臺
-http://103.233.191.136/ch2/_definst_/ch2.live/playlist.m3u8
-
-#EXTINF:-1 ,澳視澳門
-http://103.233.191.136/ch1/_definst_/ch1.live/playlist.m3u8
-
-#EXTINF:-1 ,信天遊
-http://hc.yinyuetai.com/F8190136EA197DA6F00D511F5F2B2840.flv
-
-#EXTINF:-1 ,環球電影
-http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-
-#EXTINF:-1 ,澳視高清體育
-http://103.233.191.135/ch6/hd_ch6.live/playerlist.m3u8
-
-#EXTINF:-1 ,澳視體育
-http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
-
-#EXTINF:-1 ,澳門衛視
-http://stream.mastvnet.com/MSTV/SD/live.m3u8
-
-#EXTINF:-1 ,澳視澳門
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-
-#EXTINF:-1 ,澳門2
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-
-#EXTINF:-1 ,澳門1
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-
-#EXTINF:-1 ,NHK綜合臺
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
-
-#EXTINF:-1 ,華劇臺
-http://live.italkdd.com/cds160/hls/channel004/channel004.m3u8
-
-#EXTINF:-1 ,nowtv
-http://live.italkdd.com/cds160/hls/channel003/channel003.m3u8
-
-#EXTINF:-1 ,好萊塢中文備
-http://117.169.120.206:8080/live/fhzixun/1.m3u8
-
-#EXTINF:-1 ,星空衛視備
-http://222.207.48.30/hls/startv.m3u8
-
-#EXTINF:-1 ,本港臺
-http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
-
-#EXTINF:-1 ,奇妙77臺
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-
-#EXTINF:-1 ,奇妙電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
-#EXTINF:-1 ,TVBj5
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
-
-#EXTINF:-1 ,松视HD
-http://59.120.242.104:9000/live/live6.m3u8
-
-#EXTINF:-1 ,纬来体育HD
-http://59.120.242.104:9000/live/live12.m3u8
-
-#EXTINF:-1 ,纬来日本HD
-http://59.120.242.104:9000/live/live11.m3u8
-
-#EXTINF:-1 ,卫视电影台HD
-http://59.120.242.104:9000/live/live10.m3u8
-
-#EXTINF:-1 ,博斯高球HD
-http://59.120.242.104:9000/live/live9.m3u8
-
-#EXTINF:-1 ,新闻HD
-http://59.120.242.104:9000/live/live8.m3u8
-
-#EXTINF:-1 ,环宇新闻HD
-http://59.120.242.104:9000/live/live13.m3u8
-
-#EXTINF:-1 ,龙华洋片HD
-http://59.120.242.104:9000/live/live5.m3u8
-
-#EXTINF:-1 ,中天新闻HD
-http://59.120.242.104:9000/live/live4.m3u8
-
-#EXTINF:-1 ,年代新闻HD
-http://59.120.242.104:9000/live/live3.m3u8
-
-#EXTINF:-1 ,中文洋片HD
-http://59.120.242.104:9000/live/live1.m3u8
-
-#EXTINF:-1 ,美亚电影HD
-http://59.120.242.104:9000/live/live2.m3u8
-
-#EXTINF:-1 ,台湾寰宇新闻2台
-http://61.216.177.73/sta/ch10119013.m3u8
-
-#EXTINF:-1 ,台湾龙华电影
-http://61.216.177.73/sta/ch10119012.m3u8
-
-#EXTINF:-1 ,台湾龙华经典
-http://61.216.177.73/sta/ch10119014.m3u8
-
-#EXTINF:-1 ,台湾龙华经典
-http://61.218.44.196:8000/main
-
-#EXTINF:-1 ,台湾龙华动画
-http://61.216.177.73/sta/ch10119009.m3u8
-
-#EXTINF:-1 ,台湾龙华影剧
-http://61.216.177.73/sta/ch10119008.m3u8
-
-#EXTINF:-1 ,台湾龙华偶像
-http://61.216.177.73/sta/ch10119007.m3u8
-
-#EXTINF:-1 ,台湾龙华戏剧
-http://61.216.177.73/sta/ch10119006.m3u8
-
-#EXTINF:-1 ,台湾民视新闻
-http://210.61.56.23/hls/ftvtv/index.m3u8
-
-#EXTINF:-1 ,台湾民视新闻
-http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
-
-#EXTINF:-1 ,台湾台视
-http://61.216.177.73/sta/ch10119036.m3u8
-
-#EXTINF:-1 ,台湾台视
-http://live.italkdd.com/cds160/hls/channel012/channel012.m3u8
-
-#EXTINF:-1 ,台湾台视新闻
-http://live.italkdd.com/cds160/hls/channel011/channel011_2000.m3u8
-
-#EXTINF:-1 ,台湾台视新闻
-http://live.italkdd.com/cds160/hls/channel011/channel011.m3u8
-
-#EXTINF:-1 ,台湾台视综合
-http://61.216.177.73/sta/ch10119037.m3u8
-
-#EXTINF:-1 ,台湾台视新闻
-http://61.216.177.73/sta/ch10119038.m3u8
-
-#EXTINF:-1 ,台湾台视财经
-http://61.216.177.73/sta/ch10119039.m3u8
-
-#EXTINF:-1 ,台湾生命电视台
-http://61.216.177.73/sta/ch1865007.m3u8
-
-#EXTINF:-1 ,台湾亲子台
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-
-#EXTINF:-1 ,台湾全美台
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-
-#EXTINF:-1 ,台湾天良台
-http://61.216.177.73/sta/ch1865001.m3u8
-
-#EXTINF:-1 ,台湾天映频道
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
-
-#EXTINF:-1 ,台湾唯心台
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-
-#EXTINF:-1 ,台湾靖天资讯
-http://61.216.177.73/sta/ch10119024.m3u8
-
-#EXTINF:-1 ,台湾靖洋卡通
-http://61.216.177.73/sta/ch10119027.m3u8
-
-#EXTINF:-1 ,台湾靖天育乐
-http://61.216.177.73/sta/ch10119028.m3u8
-
-#EXTINF:-1 ,台湾靖天综合
-http://61.216.177.73/sta/ch10119029.m3u8
-
-#EXTINF:-1 ,台湾靖天卡通
-http://61.216.177.73/sta/ch10119030.m3u8
-
-#EXTINF:-1 ,台湾靖天国际
-http://61.216.177.73/sta/ch10119031.m3u8
-
-#EXTINF:-1 ,台湾靖天日本
-http://61.216.177.73/sta/ch10119032.m3u8
-
-#EXTINF:-1 ,台湾博斯高球2
-http://61.216.177.73/sta/ch10119015.m3u8
-
-#EXTINF:-1 ,台湾博斯高球
-http://61.216.177.73/sta/ch10119016.m3u8
-
-#EXTINF:-1 ,台湾博斯运动
-http://61.216.177.73/sta/ch10119017.m3u8
-
-#EXTINF:-1 ,台湾博斯运动2
-http://61.216.177.73/sta/ch10119018.m3u8
-
-#EXTINF:-1 ,台湾博斯无限
-http://61.216.177.73/sta/ch10119019.m3u8
-
-#EXTINF:-1 ,台湾博斯魅力
-http://61.216.177.73/sta/ch10119020.m3u8
-
-#EXTINF:-1 ,台湾博斯魅力
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-
-#EXTINF:-1 ,台湾博斯网球
-http://61.216.177.73/sta/ch91865001.m3u8
-
-#EXTINF:-1 ,台湾天下台
-http://live.italkdd.com/cds160/hls/channel017/channel017.m3u8
-
-#EXTINF:-1 ,台湾采昌台
-http://61.216.177.73/sta/ch91865002.m3u8
-
-#EXTINF:-1 ,台湾大爱电视台
-http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
-
-#EXTINF:-1 ,台湾信吉电视
-http://61.216.177.73/sta/ch1865002.m3u8
-
-#EXTINF:-1 ,台湾富立电视台
-http://61.216.177.73/sta/ch1865022.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HUSTLER HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| HUSTLER HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2039
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PENTHOUSE QUICKIES HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PENTHOUSE QUICKIES HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2038
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PENTHOUSE GOLD HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PENTHOUSE GOLD HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2037
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PENTHOUSE BLACK" tvg-logo="" group-title="FOR ADULTS",|ADULT| PENTHOUSE BLACK
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2036
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PRIVATE TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PRIVATE TV HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2034
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VIVIDTV EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| VIVIDTV EUROPE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2033
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BANG U" tvg-logo="" group-title="FOR ADULTS",|ADULT| BANG U
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2032
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BANGERZ" tvg-logo="" group-title="FOR ADULTS",|ADULT| BANGERZ
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2031
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BARELY LEGAL" tvg-logo="" group-title="FOR ADULTS",|ADULT| BARELY LEGAL
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2030
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| WERK " tvg-logo="" group-title="FOR ADULTS",|ADULT| WERK 
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2029
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT PLEASURE HD " tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT PLEASURE HD 
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2028
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROTIC3 " tvg-logo="" group-title="FOR ADULTS",|ADULT| EROTIC3 
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2027
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROTIC" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROTIC
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2026
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROTIC2" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROTIC2
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2025
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| CANDY HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| CANDY HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2024
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| NAUGHTY " tvg-logo="" group-title="FOR ADULTS",|ADULT| NAUGHTY 
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2023
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| DORCEL HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| DORCEL HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2022
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| DORCEL XXX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| DORCEL XXX HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2021
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EXTREME" tvg-logo="" group-title="FOR ADULTS",|ADULT| EXTREME
-http://line.eagletv.co:80/Full/1GDLGP1CAN/138042
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| RKTV " tvg-logo="" group-title="FOR ADULTS",|ADULT| RKTV 
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2019
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROX HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2018
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROXXX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROXXX HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2017
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EVIL ANGEL HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| EVIL ANGEL HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2016
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PASSIEXXX " tvg-logo="" group-title="FOR ADULTS",|ADULT| PASSIEXXX 
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2015
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EXTREM" tvg-logo="" group-title="FOR ADULTS",|ADULT| EXTREM
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2014
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK CLUB " tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK CLUB 
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2013
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FREE X TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| FREE X TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2012
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FRENCH LOVER" tvg-logo="" group-title="FOR ADULTS",|ADULT| FRENCH LOVER
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2011
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FRENCH LOVER EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| FRENCH LOVER EUROPE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2010
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT PLEASURE" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT PLEASURE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2009
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2008
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HUSTLER TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| HUSTLER TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2007
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| JASMIN TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| JASMIN TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2006
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| LEO TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| LEO TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2005
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| LESBIAN AFFAIR" tvg-logo="" group-title="FOR ADULTS",|ADULT| LESBIAN AFFAIR
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2004
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MEIDEN VAN HOLLAND HARD" tvg-logo="" group-title="FOR ADULTS",|ADULT| MEIDEN VAN HOLLAND HARD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2003
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MILF TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| MILF TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2002
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| NET XX" tvg-logo="" group-title="FOR ADULTS",|ADULT| NET XX
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2001
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| NUART TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| NUART TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2000
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| OLDTIMER" tvg-logo="" group-title="FOR ADULTS",|ADULT| OLDTIMER
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1998
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PASSION XXX" tvg-logo="" group-title="FOR ADULTS",|ADULT| PASSION XXX
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1997
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PASSIE XXX" tvg-logo="" group-title="FOR ADULTS",|ADULT| PASSIE XXX
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1996
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK O TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK O TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1995
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PLAYBOY" tvg-logo="" group-title="FOR ADULTS",|ADULT| PLAYBOY
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1994
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PLAYBOY EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| PLAYBOY EUROPE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1993
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PLAYHOUSE" tvg-logo="" group-title="FOR ADULTS",|ADULT| PLAYHOUSE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1992
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PRIVE TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| PRIVE TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1991
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| REALITY KINGS" tvg-logo="" group-title="FOR ADULTS",|ADULT| REALITY KINGS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1990
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| RED XXX" tvg-logo="" group-title="FOR ADULTS",|ADULT| RED XXX
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1989
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| REDLIGHT HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| REDLIGHT HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1988
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| RUSSIAN NIGHT" tvg-logo="" group-title="FOR ADULTS",|ADULT| RUSSIAN NIGHT
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1987
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SCT CLASSIC" tvg-logo="" group-title="FOR ADULTS",|ADULT| SCT CLASSIC
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1986
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SECRET CIRCLE" tvg-logo="" group-title="FOR ADULTS",|ADULT| SECRET CIRCLE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1985
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXT & SENSO" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXT & SENSO
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1983
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXTREME" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXTREME
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1982
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXY HOT" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXY HOT
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1981
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| STARS XXX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| STARS XXX HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1980
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SUPER ONE HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SUPER ONE HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1979
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| TABOO" tvg-logo="" group-title="FOR ADULTS",|ADULT| TABOO
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1978
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VENUS TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| VENUS TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1977
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VIVID RED HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| VIVID RED HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1976
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VIVID TV EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| VIVID TV EUROPE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1975
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| X BIZARRE" tvg-logo="" group-title="FOR ADULTS",|ADULT| X BIZARRE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1974
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| X BUNGA BUNGA" tvg-logo="" group-title="FOR ADULTS",|ADULT| X BUNGA BUNGA
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1973
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| X DESIRE" tvg-logo="" group-title="FOR ADULTS",|ADULT| X DESIRE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1972
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XXL" tvg-logo="" group-title="FOR ADULTS",|ADULT| XXL
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1970
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY MAX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| XY MAX HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1969
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY MIX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| XY MIX HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1968
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY PLUS HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| XY PLUS HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1967
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| ZEST TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| ZEST TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1966
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BALKAN EROTIC" tvg-logo="" group-title="FOR ADULTS",|ADULT| BALKAN EROTIC
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1965
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SUPERONE" tvg-logo="" group-title="FOR ADULTS",|ADULT| SUPERONE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1954
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| WAAYH" tvg-logo="" group-title="FOR ADULTS",|ADULT| WAAYH
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1953
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1952
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 2" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 2
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1951
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 3" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 3
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1950
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 4" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 4
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1949
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 5" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 5
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1948
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 6" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 6
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1947
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 7" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 7
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1946
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EXX EXOTICA" tvg-logo="" group-title="FOR ADULTS",|ADULT| EXX EXOTICA
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1944
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FASHION TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| FASHION TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1943
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BLUE HUSTLER EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| BLUE HUSTLER EUROPE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1942
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EMANUELLE" tvg-logo="" group-title="FOR ADULTS",|ADULT| EMANUELLE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1940
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAST BOYZ" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAST BOYZ
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1939
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MAN-X" tvg-logo="" group-title="FOR ADULTS",|ADULT| MAN-X
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1938
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| P HD PRIVATE" tvg-logo="" group-title="FOR ADULTS",|ADULT| P HD PRIVATE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1937
-
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX A GIRL KNOWS" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX A GIRL KNOWS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439866
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX ADULT TIME" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX ADULT TIME
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439865
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX ALL BLACK X" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX ALL BLACK X
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439864
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX ALL GROUP SEX" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX ALL GROUP SEX
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439863
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX AMATEUR EURO" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX AMATEUR EURO
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439862
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX BABES" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX BABES
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439860
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX BIPHORIA" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX BIPHORIA
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439858
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX BOX OF PORN" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX BOX OF PORN
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439855
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX BRATTY SIS" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX BRATTY SIS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439854
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX BRAZZERS" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX BRAZZERS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439853
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX BUMS BUS" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX BUMS BUS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439852
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX CASTING COUCH" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX CASTING COUCH
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439851
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX CUM 4K" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX CUM 4K
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439850
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX DAGFS" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX DAGFS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439849
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX DDF BUSTY" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX DDF BUSTY
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439848
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX DIABOLIC" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX DIABOLIC
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439847
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX DIGITAL PLAYGROUND" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX DIGITAL PLAYGROUND
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439846
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX DOGFART NETWORK" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX DOGFART NETWORK
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439845
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX DORCEL CLUB" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX DORCEL CLUB
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439844
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX DREAMROOM" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX DREAMROOM
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439843
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX EROTIKVONBENAN" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX EROTIKVONBENAN
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439842
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX FAKE TAXI" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX FAKE TAXI
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439839
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX FAMILY STROKES" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX FAMILY STROKES
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439838
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX FAMILY SWAP XXX" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX FAMILY SWAP XXX
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439837
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX FAPADOO" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX FAPADOO
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439836
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX FILTHY POV" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX FILTHY POV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439835
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX FIRST ANAL QUEST" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX FIRST ANAL QUEST
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439834
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX FIT 18" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX FIT 18
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439833
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX HENTAINED" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX HENTAINED
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439831
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX HOLED" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX HOLED
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439829
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX HOT WIFE XXX" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX HOT WIFE XXX
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439828
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX HUSSIE PASS" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX HUSSIE PASS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439827
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX INTERRACIAL PASS" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX INTERRACIAL PASS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439826
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX JAYS POV" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX JAYS POV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439825
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX JESH BY JESH" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX JESH BY JESH
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439824
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX JOI BABES" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX JOI BABES
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439823
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX KINKY FAMILY" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX KINKY FAMILY
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439821
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX KINKY INLAWS" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX KINKY INLAWS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439820
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX KINKY SPA" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX KINKY SPA
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439819
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX LETHAL HARDCORE" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX LETHAL HARDCORE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439818
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX LETHAL TEENS" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX LETHAL TEENS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439817
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX LETS DOE IT" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX LETS DOE IT
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439816
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX LIFE SELECTOR" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX LIFE SELECTOR
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439815
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX LOVE HER FEET" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX LOVE HER FEET
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439814
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX LOVE HOME PORN" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX LOVE HOME PORN
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439813
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX LUBED" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX LUBED
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439812
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX LUXURE" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX LUXURE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439811
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX MAMACITAZ" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX MAMACITAZ
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439810
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX MODEL MEDIA ASIA" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX MODEL MEDIA ASIA
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439808
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX MOM TEACH SEX" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX MOM TEACH SEX
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439807
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX MOMMY BLOWS BEST" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX MOMMY BLOWS BEST
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439806
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX MUST NOT FAP" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX MUST NOT FAP
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439805
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX MY DIRTY HOBBY" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX MY DIRTY HOBBY
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439804
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX MY FAMILY PIES" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX MY FAMILY PIES
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439803
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX MY LIFE IN MIAMI" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX MY LIFE IN MIAMI
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439802
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX MY PERVY FAMILY" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX MY PERVY FAMILY
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439801
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX MY TINY WISH" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX MY TINY WISH
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439800
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX MYLF" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX MYLF
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439799
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX NEW SENSATIONS" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX NEW SENSATIONS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439798
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX NF BUSTY" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX NF BUSTY
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439797
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX NUBILE FILMS" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX NUBILE FILMS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439796
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX NURU MASSAGE" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX NURU MASSAGE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439795
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX PASSION" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX PASSION
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439794
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX PERV CITY" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX PERV CITY
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439793
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX PERV MOM" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX PERV MOM
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439792
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX PORNHOCHIC" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX PORNHOCHIC
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439790
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX POVD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX POVD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439789
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX PRENCESS CUM" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX PRENCESS CUM
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439788
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX PROPERTY SEX" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX PROPERTY SEX
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439786
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX PUBLIC AGENT" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX PUBLIC AGENT
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439785
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX PURE MATURE" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX PURE MATURE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439784
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX REAL DIRTY VIDEOS" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX REAL DIRTY VIDEOS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439783
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX REAL MOM EXPOSED" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX REAL MOM EXPOSED
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439782
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX REALITY JUNKIES" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX REALITY JUNKIES
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439781
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX REALITY KINGS" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX REALITY KINGS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439780
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX SLIM 4K" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX SLIM 4K
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439779
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX STROKIES" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX STROKIES
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439778
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX SUGAR BABES TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX SUGAR BABES TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439777
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX SWEET SINNER" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX SWEET SINNER
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439776
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX THROATED" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX THROATED
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439775
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX TRUE AMATUERS" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX TRUE AMATUERS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439774
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNBOX X CHIMERA" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNBOX X CHIMERA
-http://line.eagletv.co:80/Full/1GDLGP1CAN/439773
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| STARS EXCLUSIVE AUGUST AMES" tvg-logo="" group-title="FOR ADULTS",|ADULT| STARS EXCLUSIVE AUGUST AMES
-http://line.eagletv.co:80/Full/1GDLGP1CAN/420999
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| STARS EXCLUSIVE AUTUMN FALLS" tvg-logo="" group-title="FOR ADULTS",|ADULT| STARS EXCLUSIVE AUTUMN FALLS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/420998
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| STARS EXCLUSIVE LANA RHOADES" tvg-logo="" group-title="FOR ADULTS",|ADULT| STARS EXCLUSIVE LANA RHOADES
-http://line.eagletv.co:80/Full/1GDLGP1CAN/420997
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VERIFIED AMATEURS ALICE REDLIPS" tvg-logo="" group-title="FOR ADULTS",|ADULT| VERIFIED AMATEURS ALICE REDLIPS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/420996
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VERIFIED AMATEURS DANI DANIELS" tvg-logo="" group-title="FOR ADULTS",|ADULT| VERIFIED AMATEURS DANI DANIELS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/420995
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VERIFIED AMATEURS LUXURYGIRL" tvg-logo="" group-title="FOR ADULTS",|ADULT| VERIFIED AMATEURS LUXURYGIRL
-http://line.eagletv.co:80/Full/1GDLGP1CAN/420992
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VERIFIED AMATEURS MINI DIVA" tvg-logo="" group-title="FOR ADULTS",|ADULT| VERIFIED AMATEURS MINI DIVA
-http://line.eagletv.co:80/Full/1GDLGP1CAN/420991
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VERIFIED AMATEURS PURPLE BITCH" tvg-logo="" group-title="FOR ADULTS",|ADULT| VERIFIED AMATEURS PURPLE BITCH
-http://line.eagletv.co:80/Full/1GDLGP1CAN/420990
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VERIFIED AMATEURS REISLIN" tvg-logo="" group-title="FOR ADULTS",|ADULT| VERIFIED AMATEURS REISLIN
-http://line.eagletv.co:80/Full/1GDLGP1CAN/420989
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VERIFIED AMATEURS SECRETCRUSH" tvg-logo="" group-title="FOR ADULTS",|ADULT| VERIFIED AMATEURS SECRETCRUSH
-http://line.eagletv.co:80/Full/1GDLGP1CAN/420988
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VERIFIED AMATEURS SHAIDEN ROUGE" tvg-logo="" group-title="FOR ADULTS",|ADULT| VERIFIED AMATEURS SHAIDEN ROUGE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/420987
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VERIFIED AMATEURS RILEY REID" tvg-logo="" group-title="FOR ADULTS",|ADULT| VERIFIED AMATEURS RILEY REID
-http://line.eagletv.co:80/Full/1GDLGP1CAN/420986
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VERIFIED AMATEURS UMA JOLIE" tvg-logo="" group-title="FOR ADULTS",|ADULT| VERIFIED AMATEURS UMA JOLIE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/420985
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BLACKED 1" tvg-logo="" group-title="FOR ADULTS",|ADULT| BLACKED 1
-http://line.eagletv.co:80/Full/1GDLGP1CAN/420983
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BLACKED RAW" tvg-logo="" group-title="FOR ADULTS",|ADULT| BLACKED RAW
-http://line.eagletv.co:80/Full/1GDLGP1CAN/420981
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| TUSHYRAW" tvg-logo="" group-title="FOR ADULTS",|ADULT| TUSHYRAW
-http://line.eagletv.co:80/Full/1GDLGP1CAN/420975
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HUSTLER HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| HUSTLER HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2039
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PENTHOUSE QUICKIES HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PENTHOUSE QUICKIES HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2038
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PENTHOUSE GOLD HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PENTHOUSE GOLD HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2037
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PENTHOUSE BLACK" tvg-logo="" group-title="FOR ADULTS",|ADULT| PENTHOUSE BLACK
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2036
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PRIVATE TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PRIVATE TV HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2034
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VIVIDTV EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| VIVIDTV EUROPE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2033
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BANG U" tvg-logo="" group-title="FOR ADULTS",|ADULT| BANG U
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2032
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BANGERZ" tvg-logo="" group-title="FOR ADULTS",|ADULT| BANGERZ
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2031
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BARELY LEGAL" tvg-logo="" group-title="FOR ADULTS",|ADULT| BARELY LEGAL
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2030
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| WERK " tvg-logo="" group-title="FOR ADULTS",|ADULT| WERK 
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2029
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT PLEASURE HD " tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT PLEASURE HD 
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2028
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROTIC3 " tvg-logo="" group-title="FOR ADULTS",|ADULT| EROTIC3 
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2027
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROTIC" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROTIC
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2026
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROTIC2" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROTIC2
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2025
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| CANDY HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| CANDY HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2024
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| NAUGHTY " tvg-logo="" group-title="FOR ADULTS",|ADULT| NAUGHTY 
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2023
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| DORCEL HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| DORCEL HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2022
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| DORCEL XXX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| DORCEL XXX HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2021
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EXTREME" tvg-logo="" group-title="FOR ADULTS",|ADULT| EXTREME
-http://line.eagletv.co:80/Full/1GDLGP1CAN/138042
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| RKTV " tvg-logo="" group-title="FOR ADULTS",|ADULT| RKTV 
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2019
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROX HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2018
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROXXX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROXXX HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2017
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EVIL ANGEL HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| EVIL ANGEL HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2016
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PASSIEXXX " tvg-logo="" group-title="FOR ADULTS",|ADULT| PASSIEXXX 
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2015
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EXTREM" tvg-logo="" group-title="FOR ADULTS",|ADULT| EXTREM
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2014
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK CLUB " tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK CLUB 
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2013
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FREE X TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| FREE X TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2012
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FRENCH LOVER" tvg-logo="" group-title="FOR ADULTS",|ADULT| FRENCH LOVER
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2011
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FRENCH LOVER EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| FRENCH LOVER EUROPE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2010
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT PLEASURE" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT PLEASURE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2009
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2008
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HUSTLER TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| HUSTLER TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2007
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| JASMIN TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| JASMIN TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2006
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| LEO TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| LEO TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2005
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| LESBIAN AFFAIR" tvg-logo="" group-title="FOR ADULTS",|ADULT| LESBIAN AFFAIR
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2004
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MEIDEN VAN HOLLAND HARD" tvg-logo="" group-title="FOR ADULTS",|ADULT| MEIDEN VAN HOLLAND HARD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2003
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MILF TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| MILF TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2002
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| NET XX" tvg-logo="" group-title="FOR ADULTS",|ADULT| NET XX
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2001
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| NUART TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| NUART TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/2000
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| OLDTIMER" tvg-logo="" group-title="FOR ADULTS",|ADULT| OLDTIMER
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1998
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PASSION XXX" tvg-logo="" group-title="FOR ADULTS",|ADULT| PASSION XXX
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1997
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PASSIE XXX" tvg-logo="" group-title="FOR ADULTS",|ADULT| PASSIE XXX
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1996
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK O TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK O TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1995
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PLAYBOY" tvg-logo="" group-title="FOR ADULTS",|ADULT| PLAYBOY
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1994
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PLAYBOY EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| PLAYBOY EUROPE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1993
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PLAYHOUSE" tvg-logo="" group-title="FOR ADULTS",|ADULT| PLAYHOUSE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1992
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PRIVE TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| PRIVE TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1991
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| REALITY KINGS" tvg-logo="" group-title="FOR ADULTS",|ADULT| REALITY KINGS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1990
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| RED XXX" tvg-logo="" group-title="FOR ADULTS",|ADULT| RED XXX
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1989
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| REDLIGHT HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| REDLIGHT HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1988
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| RUSSIAN NIGHT" tvg-logo="" group-title="FOR ADULTS",|ADULT| RUSSIAN NIGHT
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1987
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SCT CLASSIC" tvg-logo="" group-title="FOR ADULTS",|ADULT| SCT CLASSIC
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1986
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SECRET CIRCLE" tvg-logo="" group-title="FOR ADULTS",|ADULT| SECRET CIRCLE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1985
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXT & SENSO" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXT & SENSO
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1983
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXTREME" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXTREME
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1982
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXY HOT" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXY HOT
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1981
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| STARS XXX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| STARS XXX HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1980
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SUPER ONE HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SUPER ONE HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1979
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| TABOO" tvg-logo="" group-title="FOR ADULTS",|ADULT| TABOO
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1978
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VENUS TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| VENUS TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1977
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VIVID RED HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| VIVID RED HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1976
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VIVID TV EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| VIVID TV EUROPE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1975
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| X BUNGA BUNGA" tvg-logo="" group-title="FOR ADULTS",|ADULT| X BUNGA BUNGA
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1973
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| X DESIRE" tvg-logo="" group-title="FOR ADULTS",|ADULT| X DESIRE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1972
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XXL" tvg-logo="" group-title="FOR ADULTS",|ADULT| XXL
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1970
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY MAX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| XY MAX HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1969
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY MIX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| XY MIX HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1968
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY PLUS HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| XY PLUS HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1967
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| ZEST TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| ZEST TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1966
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BALKAN EROTIC" tvg-logo="" group-title="FOR ADULTS",|ADULT| BALKAN EROTIC
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1965
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SUPERONE" tvg-logo="" group-title="FOR ADULTS",|ADULT| SUPERONE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1954
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| WAAYH" tvg-logo="" group-title="FOR ADULTS",|ADULT| WAAYH
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1953
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1952
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 2" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 2
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1951
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 3" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 3
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1950
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 4" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 4
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1949
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 5" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 5
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1948
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 6" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 6
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1947
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 7" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 7
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1946
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EXX EXOTICA" tvg-logo="" group-title="FOR ADULTS",|ADULT| EXX EXOTICA
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1944
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FASHION TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| FASHION TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1943
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BLUE HUSTLER EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| BLUE HUSTLER EUROPE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1942
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAST BOYZ" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAST BOYZ
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1939
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MAN-X" tvg-logo="" group-title="FOR ADULTS",|ADULT| MAN-X
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1938
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PASSIONXXX ANALSRETCHED" tvg-logo="" group-title="FOR ADULTS",|ADULT| PASSIONXXX ANALSRETCHED
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381982
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINKO TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINKO TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381980
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| REALITY KINGS TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| REALITY KINGS TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381978
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BIGASS" tvg-logo="" group-title="FOR ADULTS",|ADULT| BIGASS
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381977
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAP TV 2" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAP TV 2
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381974
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAP TV 3" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAP TV 3
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381973
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAP TV 4" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAP TV 4
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381972
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAP TV COMPILATION" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAP TV COMPILATION
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381967
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY MAX TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| XY MAX TV HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381960
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EXTASY HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| EXTASY HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381959
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORSTAR" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORSTAR
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381958
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MIAMI TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| MIAMI TV HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381956
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| DESTINY 2 TV +18 HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| DESTINY 2 TV +18 HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381955
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| ALBA XXX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| ALBA XXX HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381951
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MILF 2" tvg-logo="" group-title="FOR ADULTS",|ADULT| MILF 2
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381950
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MILF 3" tvg-logo="" group-title="FOR ADULTS",|ADULT| MILF 3
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381949
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MATURE 2" tvg-logo="" group-title="FOR ADULTS",|ADULT| MATURE 2
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381947
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BIG TITS 3" tvg-logo="" group-title="FOR ADULTS",|ADULT| BIG TITS 3
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381946
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| LESBIAN 1" tvg-logo="" group-title="FOR ADULTS",|ADULT| LESBIAN 1
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381944
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOLED FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOLED FHD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381942
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VISIT-X TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| VISIT-X TV
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381941
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| CUCKOLD" tvg-logo="" group-title="FOR ADULTS",|ADULT| CUCKOLD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381940
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BANGBROS UHD 4K" tvg-logo="" group-title="FOR ADULTS",|ADULT| BANGBROS UHD 4K
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381939
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PERV MOM NET XX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PERV MOM NET XX HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381938
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| DAY WITH A PORNSTAR FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| DAY WITH A PORNSTAR FHD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381936
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BLACKED RAW HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| BLACKED RAW HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381935
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| DEEPER FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| DEEPER FHD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381934
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT WIFE HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT WIFE HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381930
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PURE TABOO FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PURE TABOO FHD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381929
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| O-LA-LA" tvg-logo="" group-title="FOR ADULTS",|ADULT| O-LA-LA
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381928
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| ОХ-АХ HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| ОХ-АХ HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381926
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SCT HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SCT HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381925
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXT6SENSO" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXT6SENSO
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381924
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| CENTO X CENTO" tvg-logo="" group-title="FOR ADULTS",|ADULT| CENTO X CENTO
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381923
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MOFOS LAB HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| MOFOS LAB HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381921
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SLTV ADULT 1 HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SLTV ADULT 1 HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381920
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SLTV ADULT 2 HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SLTV ADULT 2 HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381919
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SLTV ADULT 3 HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SLTV ADULT 3 HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381918
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT CLUB 1 FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT CLUB 1 FHD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381910
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT CLUB 2 FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT CLUB 2 FHD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381909
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| P HD PRIVATE" tvg-logo="" group-title="FOR ADULTS",|ADULT| P HD PRIVATE
-http://line.eagletv.co:80/Full/1GDLGP1CAN/1937
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FRANCE A POİL3  HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| FRANCE A POİL3  HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381907
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FRANCE A POİL2  HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| FRANCE A POİL2  HD
-http://line.eagletv.co:80/Full/1GDLGP1CAN/381906
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNMONSTER: GAY 01" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNMONSTER: GAY 01
-http://line.eagletv.co:80/Full/1GDLGP1CAN/485366
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNMONSTER: GAY 02" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNMONSTER: GAY 02
-http://line.eagletv.co:80/Full/1GDLGP1CAN/485365
+#EXTM3U
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/albania.jpg",▬ Albania [AL] ▬
+http://clientportal.link:80/5ZVpde586/RMagvv822/16544
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg",RTK 1 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22814
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtk2al.jpg",RTK 2 AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/7061
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtk3al.jpg",RTK 3 AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/7036
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtk4al.jpg",RTK 4 AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/7037
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtv21al.jpg",RTV 21 (Backup) AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9451
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtv21al.jpg",RTV 21 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/3832
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtv21maqedonia.jpg",RTV 21 Maqedonia AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9453
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtv21mixal.jpg",RTV 21 Mix AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/16616
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg",KTV Kohavision AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/7065
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg",Klan Kosova HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4189
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg",Klan Kosova FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9455
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/t7al.jpg",T7 AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/20167
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/t7al.jpg",T7 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/23108
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/dukagini.jpg",Dukagjini HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/96435
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/dukagini.jpg",Dukagjini FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4236
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg",Klan HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9454
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg",Klan FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/3800
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/klanplusal.jpg",Klan Plus HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/7074
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg",Top Channel (Backup) AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9457
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg",Top Channel FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4178
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/alsatm.jpg",Alsat M AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/6259
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/alsatm.jpg",Alsat M (Backup) AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9450
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/alsatm.jpg",Alsat M FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22783
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg",Vizion Plus HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4214
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg",Vizion Plus (Backup) AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9463
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/firstchannel.jpg",First Channel Kosova AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/12044
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/artatval.jpg",arta TV HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/21901
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/kohatval.jpg",Koha TV HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/19145
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtshshqipal.jpg",RTSH Shqip AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/19478
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtsh1.jpg",RTSH 1 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/15632
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtsh2al.jpg",RTSH 2 AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/19480
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtsh3al.jpg",RTSH 3 AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/20168
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tvmitrovica.jpg",TV Mitrovica AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/12037
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tvprizreni.jpg",TV Prizreni AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/43387
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtv21plus.jpg",RTV 21 Plus FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/8455
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtv21popullore.jpg",RTV 21 Popullore AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/6257
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtv21popullore.jpg",RTV 21 Popullore FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9452
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtvzerial.jpg",RTV Zeri Kosoves HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/17183
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtvfontanaal.jpg",RTV Fontana FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/24860
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/ciftelial.jpg",X Çifteli HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22802
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/xmusichitsal.jpg",X music hits HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22800
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/xpopularal.jpg",X popullore HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22801
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tvopoja.jpg",TV Opoja AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/16475
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/dasmatv.jpg",Dasma TV AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/7076
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/mymusical.jpg",My Music AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/7070
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/folkplus.jpg",Folk + AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/6260
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/bbfmusic.jpg",BBF Music AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/6261
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/zjarrtv.jpg",Zjarr TV AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9372
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/besatv.jpg",Besa TV AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9395
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tvsharri.jpg",TV Sharri AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9368
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/topestrada.jpg",Top Estrada AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/12046
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/zicotval.jpg",Zico TV FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/23854
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtshmusical.jpg",RTSH Muzike AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/20172
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/elrodimusic.jpg",Elrodi Music AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4235
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/mtvkosova.jpg",MTV Kosova AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/12051
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg",E Stupcat AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/19545
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/xhumoral.jpg",X humor HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22803
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg",E Premium 1 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/12031
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg",E Premium 2 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/12030
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg",E Premium 3 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/12029
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/xpremium4al.jpg",E premium 4 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22787
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/filmgold.jpg",Digi Gold 1 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/15778
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/filmgold.jpg",Digi Gold 2 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/15779
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/filmgold.jpg",Digi Gold 3 AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/16814
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/filmgold.jpg",Digi Gold 4 AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/16815
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/artkino1al.jpg",Art Kino 1 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/28175
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/artkino3al.jpg",Art Kino 3 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/28177
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/filmhits.jpg",Film Hits AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/3818
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/filmaksion.jpg",Film Aksion AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/3820
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/filmkomedi.jpg",Film Komedi AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/3821
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/filmautor.jpg",Film Autor AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/3803
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/filmthriller.jpg",Film Thriller AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4193
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/filmdrame.jpg",Film Dramë AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4194
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/eurochannelal.jpg",Euro Channel AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/20180
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/eurofilmal.jpg",Eurofilm AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/20191
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/albcomedy.jpg",Sky Komedy AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9878
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/skydrame.jpg",Sky Drame AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/8772
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/skyaksion.jpg",Sky Aksion AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9134
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/starplusal.jpg",Star Plus AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/8774
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtshfilmal.jpg",RTSH film AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/17168
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/stinetal.jpg",Stinët AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/17171
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tal.jpg",T HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/7055
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tring3plus.jpg",Tring 3+ AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4237
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringtring.jpg",Tring Tring AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4215
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringlife.jpg",Tring Life HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4224
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringjully.jpg",Tring Series HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4227
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringsmile.jpg",Tring Smile AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/6258
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringsuper.jpg",Tring Super AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4218
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringshqip.jpg",Tring Shqip AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4219
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringactional.jpg",Tring Action AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4223
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringcomedy.jpg",Tring Comedy AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/2054
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringplanet.jpg",Tring Planet AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/6088
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringworld.jpg",Tring World AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4213
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringhistory.jpg",Tring History AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4228
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringfantasy.jpg",Tring Fantasy AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4230
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/xactional.jpg",X action HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22788
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/xcomedyal.jpg",X comedy HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22789
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/xdarkal.jpg",X dark HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22792
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/xhistorial.jpg",X histori HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22798
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/xfamilyal.jpg",X family HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22799
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/xnatyraal.jpg",X natyra HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22797
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/xromanceal.jpg",X romance HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22794
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/xdramaal.jpg",X drama HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22791
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/xscyfyal.jpg",X scyfy HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22793
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/xshkencaal.jpg",X shkenca HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22796
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/xthrilleral.jpg",X thriller HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22790
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/xwesternal.jpg",X western HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22795
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/xfilm24al.jpg",X filma24 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22815
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg",E Action HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/12047
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/albukhd.jpg",ALBUK HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/12053
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/skyplanetal.jpg",Sky Planet AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/20189
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/foxcrime.jpg",FOX Crime AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/3814
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/bangbang.jpg",Bang Bang AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/7062
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/cufo.jpg",Çufo AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4208
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg",Baby TV AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/8410
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringkids.jpg",Tring Kids AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/8773
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtv21junior.jpg",RTV 21 Junior AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/16804
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/juniortval.jpg",Junior TV AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/17182
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/topnews.jpg",Top News AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4209
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/abcnews.jpg",ABC News AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/6263
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/news24.jpg",News 24 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/3795
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/oranews.jpg",Ora News AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/7066
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/kanali7news.jpg",Kanali 7 News AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/8777
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtsh24al.jpg",RTSH 24 AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/20173
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/kanali7al.jpg",Kanali 7 AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/19544
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/e.jpg",E! AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/7072
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/artdoku1sr.jpg",Art Doku 1 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/28178
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/discoveryhd.jpg",Discovery HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/11291
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/explorershkence.jpg",Explorer Shkencë AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4203
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/explorernatyra.jpg",Explorer Natyra AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4202
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/explorernatyra.jpg",Explorer Natyra (Backup) AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9462
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/explorerhistori.jpg",Explorer Histori AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4204
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg",National Geographic AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/3793
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/travelchannel.jpg",Travel Channel AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/7060
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/livinghd.jpg",Living HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9370
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/supersportnewsal.jpg",SuperSport News FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22807
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg",SuperSport 1 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4198
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg",SuperSport 2 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22808
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg",SuperSport 2 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4199
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg",SuperSport 3 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22809
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg",SuperSport 3 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4200
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg",SuperSport 4 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22810
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg",SuperSport 4 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4201
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg",SuperSport 5 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22811
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg",SuperSport 5 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9373
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtshsport.jpg",RTSH Sport AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/15635
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringsportnewshd.jpg",Tring Sport News HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/8077
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringsport1hd.jpg",Tring Sport 1 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/8078
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringsport2hd.jpg",Tring Sport 2 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/8079
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringsport3hd.jpg",Tring Sport 3 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/8080
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tringsport4hd.jpg",Tring Sport 4 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/8081
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/ksport1.jpg",K-Sport 1 AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9150
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/ksport2.jpg",K-Sport 2 AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9151
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/ksport3.jpg",K-Sport 3 AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9152
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/ksport4.jpg",K-Sport 4 AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9153
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg",Art Sport 1 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/28182
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg",Art Sport 2 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/28183
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/albthriller.jpg",E Thriller AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9143
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/click.jpg",Click AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/12033
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/eratv.jpg",Era TV AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/4231
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/foxchannel.jpg",FOX AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9392
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/klammk.jpg",Klan Macedonia AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/27538
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/muse.jpg",Muse AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/6092
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/novelaal.jpg",Novela AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/17181
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtshplusal.jpg",RTSH Plus AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/15633
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/reporttv.jpg",Report TV AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9366
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/shenja.jpg",Shenja TV AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9399
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/syriblueal.jpg",Syri TV AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/16571
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/syrivisional.jpg",Syri Vision AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/20179
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tematv.jpg",TemaTV AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9367
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tiptv.jpg",Tip TV AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/7063
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tvdiellial.jpg",TV Dielli AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/19542
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tvkoplikual.jpg",TV Kopliku AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/20184
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/euronews.jpg",Euronews HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/34755
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/supersonic.jpg",Supersonic TV AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/3810
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tdcal.jpg",TDC AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/38606
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/kanal10alb.jpg",Kanal 10 AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/53152
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/kanal-d-dramaAL.jpg",Kanal D Drama FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/56168
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/firstchannel.jpg",First Channel Kosova FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/66309
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/atval.jpg",A TV FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/73298
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/artkino2al.jpg",Art Kino 2 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/28176
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg",Art Sport 3 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/28184
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg",KTV Kohavision FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/9456
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/artdoku2al.jpg",Art Doku 2 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/28179
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg",Art Sport 4 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/89864
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg",Art Sport 5 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/89865
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg",Art Sport 6 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/89866
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg",E Humor AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/12050
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/filmgoldal.jpg",Film Gold FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/91872
+#EXTINF:-1 group-title="Live: Albania",Film Max FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/91873
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tvllapial.jpg",TV Llapi AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/93094
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/novelasal.jpg",Tring Novelas FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/93395
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/oversportal.jpg",Over Sport News HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/97790
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/oversportal.jpg",Over Sport 1 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/97791
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/oversportal.jpg",Over Sport 2 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/97792
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/oversportal.jpg",Over Sport 3 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/97793
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/oversportal.jpg",Over Sport 4 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/97794
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/teve1al.jpg",Tëvë 1 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/99872
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/supersport7al.jpg",SuperSport 7 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22813
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/supersport6hd.jpg",SuperSport 6 FHD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/22812
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/darkhitsal.jpg",Dark Hits HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/115133
+#EXTINF:-1 group-title="Live: Albania",Dark Kafeneja Jone HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/115134
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/darkstupcatal.jpg",Dark Stupcat Egjeli HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/115135
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/darknetflixal.jpg",Dark Netflix 1 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/115136
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/darknetflixal.jpg",Dark Netflix 2 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/115137
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/darknetflixal.jpg",Dark Netflix 3 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/115138
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/darknetflixal.jpg",Dark Netflix 4 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/115139
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/darkpopulloreal.jpg",Dark Popullore HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/115140
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tevedoku1al.jpg",Tëvë Doku 1 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/116968
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tevedoku2al.jpg",Tëvë Doku 2 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/116969
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/tevenovelaal.jpg",Tëvë Novela HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/116971
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg",Big Brother VIP 1 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/117771
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg",Big Brother VIP 2 HD AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/117772
+#EXTINF:-1 group-title="Live: Albania" tvg-logo="https://picon-13398.kxcdn.com/rtshal.jpg",RTSH Korça AL
+http://clientportal.link:80/5ZVpde586/RMagvv822/20169
