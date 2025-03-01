@@ -1,3 +1,34 @@
+#EXTINF:-1,xxx: Cum 4k UHD http://esproliwstg.top:8080/heir001/heir001/26006 
+#EXTINF:-1,xxx: Daughter Swap http://esproliwstg.top:8080/heir001/heir001/26007 
+#EXTINF:-1,xxx: Day with a Pornstar http://esproliwstg.top:8080/heir001/heir001/26008 
+#EXTINF:-1,xxx: DDF Network http://esproliwstg.top:8080/heir001/heir001/26009 
+#EXTINF:-1,xxx: FAKE AGENT http://esproliwstg.top:8080/heir001/heir001/26011 
+#EXTINF:-1,xxx: Fake Taxi http://esproliwstg.top:8080/heir001/heir001/26012 
+#EXTINF:-1,xxx: Family Hookups http://esproliwstg.top:8080/heir001/heir001/26013 
+#EXTINF:-1,xxx: Family Strokes http://esproliwstg.top:8080/heir001/heir001/26014 
+#EXTINF:-1,xxx: French Lover Europe http://esproliwstg.top:8080/heir001/heir001/26025 
+#EXTINF:-1,xxx: Gay Adult TV http://esproliwstg.top:8080/heir001/heir001/26026 
+#EXTINF:-1,xxx: GAY MAX HD http://esproliwstg.top:8080/heir001/heir001/26027 
+#EXTINF:-1,xxx: HUSTLER HD http://esproliwstg.top:8080/heir001/heir001/26030 
+#EXTINF:-1,xxx: Little Caprice http://esproliwstg.top:8080/heir001/heir001/26031 
+#EXTINF:-1,xxx: Mia Khalifa http://esproliwstg.top:8080/heir001/heir001/26032 
+#EXTINF:-1,xxx: My Pervy Family http://esproliwstg.top:8080/heir001/heir001/26033 
+#EXTINF:-1,xxx: Neo Gay 1 http://esproliwstg.top:8080/heir001 
+#EXTINF:-1,XXX: Blue Hustler http://esproliwstg.top:8080/heir001/heir001/26047 
+#EXTINF:-1,XXX: Brazzers http://esproliwstg.top:8080/heir001/heir001/26048 
+#EXTINF:-1,XXX: CENTO X CENTO TV http://esproliwstg.top:8080/heir001/heir001/26049 
+#EXTINF:-1,XXX: Cum 4k UHD http://esproliwstg.top:8080/heir001/heir001/26050 
+#EXTINF:-1,XXX: Daughter Swap http://esproliwstg.top:8080/heir001/heir001/26051 
+#EXTINF:-1,XXX: DDF Network http://esproliwstg.top:8080/heir001/heir001/26052 
+#EXTINF:-1,XXX: Dorcel Club http://esproliwstg.top:8080/heir001/heir001/26053 
+#EXTINF:-1,XXX: DORCEL XXX http://esproliwstg.top:8080/heir001/heir001/26054 
+#EXTINF:-1,XXX: Dusk http://esproliwstg.top:8080/heir001/heir001/26055 
+#EXTINF:-1,XXX: ERO X http://esproliwstg.top:8080/heir001/heir001/26056 
+#EXTINF:-1,XXX: Evil angel http://esproliwstg.top:8080/heir001/heir001/26058
+#EXTINF:-1,XXX: Extasy http://esproliwstg.top:8080/heir001/heir001/26059 
+#EXTINF:-1,XXX: Family Hookups http://esproliwstg.top:8080/heir001/heir001/26060 
+#EXTINF:-1,XXX: Family Strokes http://esproliwstg.top:8080/heir001/heir001/26061 
+#EXTINF:-1,XXX: French Lover Europe http://esproliwstg.top:8080/heir001/heir001/26062
 #EXTINF:-1 tvg-id="AdultIPTVnetAnal.fr" tvg-name="AdultIPTV.net Anal" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Anal
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetAnal.fr" tvg-name="AdultIPTV.net Anal" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Anal
